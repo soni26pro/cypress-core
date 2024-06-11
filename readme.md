@@ -17,13 +17,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo/project-name.git
+    git clone hhttps://github.com/soni26pro/cypress-core
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd project-name
+    cd cypressAutomation
     ```
 
 3. Install the dependencies:
